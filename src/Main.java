@@ -36,7 +36,7 @@ public class Main {
         } else if (personAge > 18 && personAge < 24){
             System.out.println("Нужно ходить в университет");
         } else if (personAge >= 24){
-            System.out.println("Нужно ходить на работу");
+            System.out.println("Нужно ходить на работу ");
         }
 
         int manAge = 14;
